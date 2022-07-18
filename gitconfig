@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rafaelpando9@gmail.com
+	name = rafaelpando
